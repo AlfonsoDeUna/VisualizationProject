@@ -10,17 +10,20 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Introducción
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+¿Qué está pasando en tu ciudad? Actualmente disponemos de cantidad de datos públicos y libres de uso que las Administraciones Públicas y empresas y organizaciones sin ánimo de lucro  nos facilitan. Normalmente esta información aún siendo pública no forma parte de la sociedad, muchas veces gracias a los periodistas estos datos pueden llegar al gran público pero siempre es necesario procesar y realizar un tratamiento de los datos y para eso nos necesitan. 
 
-## Header 2
+## Objetivo
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Alumnos de 2º de SMIR de ANDEL. Tenéis que realizar una visualización utilizando:
+> HeatMap
+> Herramientas de Google: ExcelDocs
+> Scripts
 
-### Header 3
+
+### Entrega
+
 
 ```js
 // Javascript code with syntax highlighting.
