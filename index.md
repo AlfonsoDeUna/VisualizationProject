@@ -45,7 +45,7 @@ https://datos.madrid.es/FWProjects/egob/Catalogo/Seguridad/Ficheros/Estructura_C
 
 https://developers.google.com/maps/documentation/javascript/heatmaplayer
 
-![Octocat](https://github.com/AlfonsoDeUna/VisualizationProject/tree/gh-pages/IMG/Screenshot_4.jpg)
+![Octocat](https://github.com/AlfonsoDeUna/VisualizationProject/blob/gh-pages/IMG/Screenshot_4.jpg)
 
 
 ```
