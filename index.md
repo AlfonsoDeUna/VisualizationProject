@@ -36,8 +36,6 @@ https://datos.madrid.es/FWProjects/egob/Catalogo/Seguridad/Ficheros/Estructura_C
 | 2019         | ENERO             | 28320    |
 | 2019         | ENERO             | 28320    |
 
-### There's a horizontal rule below this.
-
 * * *
 
 
