@@ -4,8 +4,9 @@ layout: default
 
 
 
-[Obtención de Datos](./another-page.html).
-[Tratar los Datos](./another-page.html).
+1. [Obtención de Datos](./another-page.html).
+
+2. [Tratar los Datos](./).
 
 
 
@@ -16,109 +17,36 @@ layout: default
 ## Objetivo
 
 Alumnos de 2º de SMIR de ANDEL. Tenéis que realizar una visualización utilizando:
-> HeatMap
-> Herramientas de Google: ExcelDocs
-> Scripts
+* HeatMap
+ Herramientas de Google: ExcelDocs
+* > Scripts --> App Script (Google)
 
 
-### Entrega
+### fORMATO DE LOS DATOS ABIERTOS
+
+https://datos.madrid.es/FWProjects/egob/Catalogo/Seguridad/Ficheros/Estructura_ConjuntoDatos%20bomberos.pdf
 
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+###### TABLA DE DATOS
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| AÑO          | MES               | DISTRITO |
+|:-------------|:------------------|:---------| 
+| 2019         | ENERO             | 28320    |
+| 2019         | ENERO             | 28320    |
+| 2019         | ENERO             | 28320    |
+| 2019         | ENERO             | 28320    |
 
 ### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### HEATMAP
 
-### And an ordered list:
+https://developers.google.com/maps/documentation/javascript/heatmaplayer
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+![Octocat](https://https://github.com/AlfonsoDeUna/VisualizationProject/tree/gh-pages/IMG/Screenshot_4.jpg)
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
 ```
 The final element.
