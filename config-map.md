@@ -43,6 +43,7 @@ border: 1px solid #000;
 
 ### Añadir los puntos en el mapa con su frecuencia
 
+```
 /* Data points defined as a mixture of WeightedLocation and LatLng objects */
 var heatMapData = [
   {location: new google.maps.LatLng(37.782, -122.447), weight: 0.5},
@@ -61,15 +62,15 @@ var heatMapData = [
   {location: new google.maps.LatLng(37.785, -122.437), weight: 2},
   {location: new google.maps.LatLng(37.785, -122.435), weight: 3}
 ];
-
+```
 ### Las coordenadas geográficas de Madrid son:
 
 Longitud: -3.7025600
 Latitud: 40.4165000
 
-```
 
 ### Por último código para visualización 
+
 ```
 var madrid = new google.maps.LatLng(40.4165000, -3.7025600);
 map = new google.maps.Map(document.getElementById('map'), {
