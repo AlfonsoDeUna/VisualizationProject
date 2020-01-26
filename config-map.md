@@ -88,8 +88,7 @@ heatmap.setMap(map);
 
 ### Código de ejemplo
 
-```
-
+``
 <!DOCTYPE html>
 <html>
   <head>
