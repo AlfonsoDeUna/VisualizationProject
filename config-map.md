@@ -210,6 +210,9 @@ heatmap.setMap(map);
 
 ## Información distrito postal y coordenadas
 
-http://distritopostal.es/28005
+http://distritopostal.es/28005 --> código postal y coordenadas
 http://www.madrid.org/iestadis/fijas/estructu/general/territorio/descarga/cpostbarr.pdf
+https://www.codigo-postal.info/madrid/madrid --> para ver nombre del barrio con código postal
+
+Fichero guardado
 
